@@ -1,0 +1,9 @@
+name = "test"
+type = "webpack"
+workers_dev = true
+route = ""
+zone_id = ""
+
+[site]
+bucket = "."
+entry-point = "workers-site"
