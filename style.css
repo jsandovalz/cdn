@@ -55,7 +55,7 @@ body {
     background-color: #131313;
     border: min(0.5vw, 0.5vh) solid #a03737;
     border-radius: min(1vw, 1vh);
-    color: #812424;
+    color: #6c1b1b;
     font-size: min(2.5vw, 2.5vh);
     text-align: center;
 }
@@ -73,7 +73,7 @@ body {
 }
 
 .not-found {
-    color: #fff;
+    color: #954c4c;
     text-align: center;
     margin: 5rem;
 }
